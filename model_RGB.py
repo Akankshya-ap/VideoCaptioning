@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-__author__ = "Xinpeng.Chen"
+
 
 import tensorflow as tf
 import pandas as pd
